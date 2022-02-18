@@ -7,11 +7,12 @@ public class Address {
     private String city;
     private String state;
     private String zipCode;
-    
+
+
 	public String getStreet1() {
 		return street1;
 	}
-	public void setStreet1(String street1) {
+	public String setStreet1(String street1) {
 		this.street1 = street1;
 	}
 	public String getStreet2() {

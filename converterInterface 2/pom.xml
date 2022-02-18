@@ -3,5 +3,19 @@
   <groupId>com.bootcamp.test</groupId>
   <artifactId>converterInterface</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
+
 </project>

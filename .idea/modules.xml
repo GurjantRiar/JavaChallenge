@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalculatorObject/CalculatorObject.iml" filepath="$PROJECT_DIR$/CalculatorObject/CalculatorObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaChallenge.iml" filepath="$PROJECT_DIR$/.idea/JavaChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/converterInterface 2/converterInterface.iml" filepath="$PROJECT_DIR$/converterInterface 2/converterInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpgInheritance/rpgInheritance.iml" filepath="$PROJECT_DIR$/rpgInheritance/rpgInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customerComposition/rpgInheritance (1).iml" filepath="$PROJECT_DIR$/customerComposition/rpgInheritance (1).iml" />
+    </modules>
+  </component>
+</project>

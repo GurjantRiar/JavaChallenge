@@ -9,7 +9,7 @@ public class Customer {
 	private Address shippingAddress;
 	private Address billingAddress;
 	private Boolean rewardsMember;
-	
+
 	public String getFirstName() {
 		return firstName;
 	}
